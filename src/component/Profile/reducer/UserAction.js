@@ -1,0 +1,5 @@
+const SET_LOADING = 1;
+const FETCH_COMPLETE = 2;
+const EDIT_USER = 3;
+
+export { SET_LOADING, FETCH_COMPLETE, EDIT_USER };
